@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.label{
+    display: block;
+}
+input{
+    display: block;
+}
+
+form{
+    border: 1px solid rgb(0, 140, 255);
+    background-color: rgb(245, 243, 243);
+    border-radius: 15px;
+    width: fit-content;
+}
+
+#formulario{
+    margin: 30px 20px;
+}
+
+
